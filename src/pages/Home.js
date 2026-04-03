@@ -250,7 +250,7 @@ function Home() {
           <h1>Welcome to TechStore</h1>
           <p>Discover amazing tech products at unbeatable prices</p>
           <a 
-            href="https://visioptdev.com/client/postback.php?pb_id=51&site_id=1040&c_page=880&visiuid=[#visiuid]&amt=50"
+            href="https://visiopt.com/client/postback.php?pb_id=41&site_id=1090&c_page=803&visiuid=[#visiuid]&amt=50"
             className="cta-button"
             target="_blank"
             rel="noopener noreferrer"
