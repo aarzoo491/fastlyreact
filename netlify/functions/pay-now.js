@@ -12,7 +12,7 @@ exports.handler = async (event) => {
     console.log("Form Data Sent:", form.toString());
 
     const response = await axios.post(
-      "https://visioptdev.com/app/webhook_capture_custom/MTA0MC00MjMtMTM4LVc=",
+      "https://visiopt.com/app/webhook_capture_custom/MTA5MC00MjMtMTUzLVc=",
       form,
       { headers: { "Content-Type": "application/x-www-form-urlencoded" } }
     );
